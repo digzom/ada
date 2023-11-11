@@ -1,0 +1,1 @@
+print('básico do básico ainda espero que daqui a pouco fique interessante porque eu já sei o básico')
